@@ -1,3 +1,28 @@
-.contacts{
-    
+.contacts {
+    margin: 0;
+    display: flex;
+    width: 100%;
+    color: black;
+}
+
+.contacts__conteiner{
+margin: 0 auto;
+text-align: center;
+}
+
+.contacts__header{
+    color: black;
+    font-size: 50px;
+}
+
+.href{
+margin: 60px auto;
+}
+
+.contacts__text{
+font-size: 35px;
+}
+
+.contacts__href{
+font-size: 20px;
 }
